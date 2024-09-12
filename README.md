@@ -1,2 +1,2 @@
 # competencyManagement
-Renault - Platec Competency Management Project with Python &amp; Django
+Renault - Platec Competency Management Project develop with Python &amp; Django
